@@ -18,34 +18,13 @@
   background-color: #e2faff;
 }
 
-.controls {
-  display: none;
+.controls{
+  display:none;
 }
 .new-message {
   width: 800px;
   margin-right: 30px;
   border: 1px solid gray;
-}
-
-.message-item {
-  /* display: flex; */
-  margin: 20px;
-}
-
-.message-header {
-  display: flex;
-  justify-content: flex-start;
-  margin-bottom: 10px;
-}
-
-.date-time {
-  color: blue;
-  margin-right: 10px;
-}
-
-.user-name {
-  font-weight: bold;
-  color: red;
 }
 
 /* html, body{
